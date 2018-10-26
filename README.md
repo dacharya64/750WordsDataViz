@@ -6,7 +6,7 @@ This Unity program takes in data from 750 Words and visualizes it in a virtual r
 ## How to use
 Open up the "DataViz" executable in the "Builds" folder.
 
-Use the **spacebar** to advance between each month's data, and the **1** and **2** keys to switch between the active visualization.
+Use the **spacebar** to advance between each month's data, and the **1** and **2** keys to switch between the active visualization. **Escape** key quits the application.
 
 The first visualization is a graph of the number of words written each day of the month. Data points are green if the word count is over the target 750 words. The Y axis marks every 100 words.
 
